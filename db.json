@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Sadhana",
       "day": "Feb 6th at 5:30",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
     {
       "text": "haircut",
       "day": "today at 4:30",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     }
   ]
