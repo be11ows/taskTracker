@@ -13,10 +13,16 @@
       "reminder": true
     },
     {
-      "id": 3,
       "text": "Hot Date",
       "day": "Feb 6th at 8:30",
-      "reminder": false
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "haircut",
+      "day": "today at 4:30",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
